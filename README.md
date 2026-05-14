@@ -1,4 +1,4 @@
-# AI-powered full-stack engineer 🤖 
+# AI-powered Full-stack Engineer 🤖 
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arlsbennettd) 
